@@ -1,4 +1,5 @@
 # Development Guide
+danilppzz development guide for colors & tech
 
 ### Tailwind
 To use tailwind with HTML you can add this scripts to the head
