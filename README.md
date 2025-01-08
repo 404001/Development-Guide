@@ -1,4 +1,4 @@
-# Development Guide
+## Development Guide
 danilppzz development guide for colors & tech
 
 ### Tailwind
